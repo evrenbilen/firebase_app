@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1022820659895",
+    "project_id": "cryptoexchangefirebase-3fba4",
+    "storage_bucket": "cryptoexchangefirebase-3fba4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022820659895:android:e749aa1abe494dcec39332",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022820659895-eigo33olrs6jmodn1uhcjha4goda6r84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPiK-twILQTdA-mhp-T7WUTX68EN_snw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022820659895-eigo33olrs6jmodn1uhcjha4goda6r84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022820659895-kvd8qlfa20oqiua3b5j08329dmgr40cb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thrudvangr.cryptoExchange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022820659895:android:27f4eb7f8ac67c47c39332",
+        "android_client_info": {
+          "package_name": "com.thrudvangr.crypto_exchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022820659895-u31tja0ddinvgsar0qb3e3vj86pgeh23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thrudvangr.crypto_exchange",
+            "certificate_hash": "e53149cd61decdfd5d993d00596cd02629f79760"
+          }
+        },
+        {
+          "client_id": "1022820659895-eigo33olrs6jmodn1uhcjha4goda6r84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPiK-twILQTdA-mhp-T7WUTX68EN_snw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022820659895-eigo33olrs6jmodn1uhcjha4goda6r84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022820659895-kvd8qlfa20oqiua3b5j08329dmgr40cb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thrudvangr.cryptoExchange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
